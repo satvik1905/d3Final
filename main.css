@@ -1,0 +1,112 @@
+.axisLabel {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+.axis {
+  /* used by d3.js when creating an axis */
+  font-size: 16pt;
+}
+
+.legend {
+  font-size: 12px;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: left;
+  padding: 2px;
+  font-size: 10px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background: white;
+  border: solid;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.button-1 {
+  appearance: button;
+  background-color: #1899d6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  line-height: 15px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 10px 10px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 5%;
+}
+
+.button-1:after {
+  background-clip: padding-box;
+  background-color: #1cb0f6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-1:main,
+.button-1:focus {
+  user-select: auto;
+}
+
+.button-1:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-1:disabled {
+  cursor: auto;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: underline;
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}

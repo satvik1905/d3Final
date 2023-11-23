@@ -1,0 +1,1658 @@
+[
+  {
+    "steps": "1",
+    "energy": "2",
+    "water": "0.25",
+    "calorie": "400",
+    "date": "02-11",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "5",
+    "energy": "2",
+    "water": "0.75",
+    "calorie": "1000",
+    "date": "02-11",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "2",
+    "water": "1.25",
+    "calorie": "1200",
+    "date": "02-11",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "3.5",
+    "water": "1.5",
+    "calorie": "1800",
+    "date": "02-11",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "1",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "380",
+    "date": "02-12",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "1",
+    "calorie": "900",
+    "date": "02-12",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1500",
+    "date": "02-12",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "13",
+    "energy": "4.5",
+    "water": "1.5",
+    "calorie": "2200",
+    "date": "02-12",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "600",
+    "date": "02-13",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "2",
+    "calorie": "1000",
+    "date": "02-13",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "1700",
+    "date": "02-13",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "4",
+    "water": "3",
+    "calorie": "2000",
+    "date": "02-13",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "500",
+    "date": "02-14",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "1",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "02-14",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "2",
+    "calorie": "1500",
+    "date": "02-14",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "3",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "1700",
+    "date": "02-14",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1",
+    "water": "1",
+    "calorie": "700",
+    "date": "02-15",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "1000",
+    "date": "02-15",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "2.5",
+    "water": "2.5",
+    "calorie": "1600",
+    "date": "02-15",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "8",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "2000",
+    "date": "02-15",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "550",
+    "date": "02-16",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "1",
+    "calorie": "950",
+    "date": "02-16",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "3.5",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "1350",
+    "date": "02-16",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "2.5",
+    "calorie": "1850",
+    "date": "02-16",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2.5",
+    "energy": "2",
+    "water": "1",
+    "calorie": "700",
+    "date": "02-17",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "02-17",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7.5",
+    "energy": "3",
+    "water": "2",
+    "calorie": "1800",
+    "date": "02-17",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "8.5",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "2200",
+    "date": "02-17",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "0.5",
+    "calorie": "700",
+    "date": "02-18",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "02-18",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "1900",
+    "date": "02-18",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "4",
+    "water": "3.5",
+    "calorie": "2400",
+    "date": "02-18",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2.5",
+    "energy": "1",
+    "water": "1",
+    "calorie": "450",
+    "date": "02-19",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "2.5",
+    "calorie": "900",
+    "date": "02-19",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "9",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "1500",
+    "date": "02-19",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "12.5",
+    "energy": "4.5",
+    "water": "4.5",
+    "calorie": "2250",
+    "date": "02-19",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "0.5",
+    "calorie": "500",
+    "date": "02-20",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "1",
+    "calorie": "1000",
+    "date": "02-20",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "2.5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "1500",
+    "date": "02-20",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "1900",
+    "date": "02-20",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "1.7",
+    "energy": "0.5",
+    "water": "0.75",
+    "calorie": "600",
+    "date": "02-21",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "2.75",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "02-21",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "5",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1300",
+    "date": "02-21",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "7",
+    "energy": "3",
+    "water": "2",
+    "calorie": "1800",
+    "date": "02-21",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "800",
+    "date": "02-22",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "1300",
+    "date": "02-22",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1500",
+    "date": "02-22",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "6.5",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1800",
+    "date": "02-22",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "500",
+    "date": "02-23",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "5",
+    "energy": "2",
+    "water": "2",
+    "calorie": "900",
+    "date": "02-23",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "7.5",
+    "energy": "2.5",
+    "water": "3",
+    "calorie": "1100",
+    "date": "02-23",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "3.5",
+    "water": "3.5",
+    "calorie": "1500",
+    "date": "02-23",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "1",
+    "water": "1",
+    "calorie": "400",
+    "date": "02-24",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "1100",
+    "date": "02-24",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2.5",
+    "calorie": "1700",
+    "date": "02-24",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "8",
+    "energy": "3",
+    "water": "3",
+    "calorie": "2100",
+    "date": "02-24",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1",
+    "calorie": "625",
+    "date": "02-25",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "5",
+    "energy": "1.75",
+    "water": "2",
+    "calorie": "1050",
+    "date": "02-25",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7.5",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "1700",
+    "date": "02-25",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "9",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "2100",
+    "date": "02-25",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "500",
+    "date": "02-26",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "2.5",
+    "energy": "1.5",
+    "water": "1",
+    "calorie": "900",
+    "date": "02-26",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "1600",
+    "date": "02-26",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1",
+    "calorie": "1900",
+    "date": "02-26",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "1.25",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "300",
+    "date": "02-27",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "900",
+    "date": "02-27",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2.5",
+    "calorie": "1300",
+    "date": "02-27",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "7",
+    "energy": "2",
+    "water": "2.5",
+    "calorie": "1500",
+    "date": "02-27",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1",
+    "water": "1",
+    "calorie": "700",
+    "date": "02-28",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1200",
+    "date": "02-28",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "9",
+    "energy": "3",
+    "water": "2.75",
+    "calorie": "1500",
+    "date": "02-28",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "4",
+    "water": "3",
+    "calorie": "1700",
+    "date": "02-28",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1",
+    "water": "1.25",
+    "calorie": "300",
+    "date": "03-01",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "1000",
+    "date": "03-01",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "2.5",
+    "water": "1.75",
+    "calorie": "1200",
+    "date": "03-01",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "13",
+    "energy": "4",
+    "water": "2.25",
+    "calorie": "1500",
+    "date": "03-01",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "1",
+    "calorie": "490",
+    "date": "03-02",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "1",
+    "calorie": "1100",
+    "date": "03-02",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "3.5",
+    "water": "1.5",
+    "calorie": "1500",
+    "date": "03-02",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "14",
+    "energy": "4.5",
+    "water": "2",
+    "calorie": "1800",
+    "date": "03-02",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "2",
+    "water": "1",
+    "calorie": "600",
+    "date": "03-03",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4.5",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "900",
+    "date": "03-03",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "5.5",
+    "energy": "3",
+    "water": "2",
+    "calorie": "1300",
+    "date": "03-03",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "7",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "1700",
+    "date": "03-03",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "0.5",
+    "calorie": "630",
+    "date": "03-04",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "03-04",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "1900",
+    "date": "03-04",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "9.5",
+    "energy": "3.5",
+    "water": "2.5",
+    "calorie": "1900",
+    "date": "03-04",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "1.75",
+    "energy": "1",
+    "water": "0.75",
+    "calorie": "370",
+    "date": "03-05",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "1000",
+    "date": "03-05",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "3",
+    "water": "3",
+    "calorie": "2000",
+    "date": "03-05",
+    "category": 4,
+    "time": 18
+  },
+  {
+    "steps": "9",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "2200",
+    "date": "03-05",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1.25",
+    "water": "1.5",
+    "calorie": "500",
+    "date": "03-06",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2",
+    "calorie": "950",
+    "date": "03-06",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "3.25",
+    "water": "2.5",
+    "calorie": "1200",
+    "date": "03-06",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "4.25",
+    "water": "3",
+    "calorie": "1600",
+    "date": "03-06",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "0.8",
+    "energy": "1",
+    "water": "0.75",
+    "calorie": "390",
+    "date": "03-07",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3.5",
+    "energy": "2",
+    "water": "1",
+    "calorie": "990",
+    "date": "03-07",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "1.5",
+    "calorie": "1400",
+    "date": "03-07",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "9",
+    "energy": "4",
+    "water": "2.25",
+    "calorie": "1900",
+    "date": "03-07",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "1",
+    "calorie": "430",
+    "date": "03-08",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.25",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "03-08",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "5",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1800",
+    "date": "03-08",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "2100",
+    "date": "03-08",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2.5",
+    "energy": "1.5",
+    "water": "1.25",
+    "calorie": "520",
+    "date": "03-09",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "3.5",
+    "energy": "1.75",
+    "water": "1.5",
+    "calorie": "1050",
+    "date": "03-09",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7.5",
+    "energy": "2.5",
+    "water": "2.5",
+    "calorie": "1600",
+    "date": "03-09",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "4",
+    "water": "3",
+    "calorie": "2150",
+    "date": "03-09",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "400",
+    "date": "03-10",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "03-10",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "2",
+    "water": "2.25",
+    "calorie": "1800",
+    "date": "03-10",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "12",
+    "energy": "4.25",
+    "water": "3",
+    "calorie": "2000",
+    "date": "03-10",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2.5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "600",
+    "date": "03-11",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4.5",
+    "energy": "2.25",
+    "water": "2",
+    "calorie": "1050",
+    "date": "03-11",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "1800",
+    "date": "03-11",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "8",
+    "energy": "3",
+    "water": "3",
+    "calorie": "2100",
+    "date": "03-11",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "390",
+    "date": "03-12",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "890",
+    "date": "03-12",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1500",
+    "date": "03-12",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "13",
+    "energy": "4.5",
+    "water": "3",
+    "calorie": "1900",
+    "date": "03-12",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "0.7",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "600",
+    "date": "03-13",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "3.5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "03-13",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "8",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "1850",
+    "date": "03-13",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "2200",
+    "date": "03-13",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1",
+    "calorie": "440",
+    "date": "03-14",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "1000",
+    "date": "03-14",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "5",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1600",
+    "date": "03-14",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "3",
+    "calorie": "2200",
+    "date": "03-14",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.25",
+    "calorie": "600",
+    "date": "03-15",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "3.5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "800",
+    "date": "03-15",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1500",
+    "date": "03-15",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "3.5",
+    "water": "3",
+    "calorie": "2100",
+    "date": "03-15",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "0.75",
+    "calorie": "500",
+    "date": "03-16",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "5",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "03-16",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "2.5",
+    "water": "3",
+    "calorie": "2000",
+    "date": "03-16",
+    "category": 4,
+    "time": 18
+  },
+  {
+    "steps": "8",
+    "energy": "3",
+    "water": "3",
+    "calorie": "2200",
+    "date": "03-16",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "1",
+    "calorie": "470",
+    "date": "03-17",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "800",
+    "date": "03-17",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1400",
+    "date": "03-17",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "11",
+    "energy": "3.75",
+    "water": "3",
+    "calorie": "1900",
+    "date": "03-17",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "4",
+    "energy": "2",
+    "water": "0.75",
+    "calorie": "370",
+    "date": "03-18",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "1.5",
+    "calorie": "1100",
+    "date": "03-18",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "9",
+    "energy": "3",
+    "water": "3",
+    "calorie": "1800",
+    "date": "03-18",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "13",
+    "energy": "4.5",
+    "water": "3",
+    "calorie": "2100",
+    "date": "03-18",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "1",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "470",
+    "date": "03-19",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "1.5",
+    "calorie": "1000",
+    "date": "03-19",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "2",
+    "calorie": "1600",
+    "date": "03-19",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "3.5",
+    "energy": "1.5",
+    "water": "3",
+    "calorie": "1900",
+    "date": "03-19",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2.5",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "600",
+    "date": "03-20",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "03-20",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "7",
+    "energy": "3",
+    "water": "2",
+    "calorie": "2000",
+    "date": "03-20",
+    "category": 4,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "4",
+    "water": "3",
+    "calorie": "2200",
+    "date": "03-20",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.7",
+    "energy": "1",
+    "water": "1.25",
+    "calorie": "400",
+    "date": "03-21",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.75",
+    "calorie": "900",
+    "date": "03-21",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "2",
+    "calorie": "1200",
+    "date": "03-21",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "6",
+    "energy": "2.75",
+    "water": "2.5",
+    "calorie": "1700",
+    "date": "03-21",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "1.5",
+    "energy": "1",
+    "water": "1.25",
+    "calorie": "470",
+    "date": "03-22",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "3",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "950",
+    "date": "03-22",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "5",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1500",
+    "date": "03-22",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "2.25",
+    "calorie": "1800",
+    "date": "03-22",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "4",
+    "energy": "2.25",
+    "water": "0.5",
+    "calorie": "400",
+    "date": "03-23",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "7",
+    "energy": "2.5",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "03-23",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "10",
+    "energy": "3.5",
+    "water": "2",
+    "calorie": "1750",
+    "date": "03-23",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "13",
+    "energy": "4.5",
+    "water": "4",
+    "calorie": "2100",
+    "date": "03-23",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "1",
+    "energy": "1",
+    "water": "0.5",
+    "calorie": "600",
+    "date": "03-24",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "2",
+    "energy": "1.5",
+    "water": "1.25",
+    "calorie": "900",
+    "date": "03-24",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "3.5",
+    "energy": "2",
+    "water": "1.75",
+    "calorie": "1400",
+    "date": "03-24",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "5",
+    "energy": "2.5",
+    "water": "2.5",
+    "calorie": "1900",
+    "date": "03-24",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "2",
+    "energy": "1",
+    "water": "0.75",
+    "calorie": "430",
+    "date": "03-25",
+    "category": 0,
+    "time": 8
+  },
+  {
+    "steps": "4",
+    "energy": "1.5",
+    "water": "1.25",
+    "calorie": "900",
+    "date": "03-25",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "8.5",
+    "energy": "3",
+    "water": "1.8",
+    "calorie": "1800",
+    "date": "03-25",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "10",
+    "energy": "4",
+    "water": "2.5",
+    "calorie": "2050",
+    "date": "03-25",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "1.5",
+    "energy": "0.75",
+    "water": "0.5",
+    "calorie": "630",
+    "date": "03-26",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "2.75",
+    "energy": "1.5",
+    "water": "1.9",
+    "calorie": "1100",
+    "date": "03-26",
+    "category": 2,
+    "time": 13
+  },
+  {
+    "steps": "4",
+    "energy": "2",
+    "water": "2",
+    "calorie": "1400",
+    "date": "03-26",
+    "category": 2,
+    "time": 18
+  },
+  {
+    "steps": "6",
+    "energy": "2.5",
+    "water": "2.25",
+    "calorie": "1850",
+    "date": "03-26",
+    "category": 3,
+    "time": 23
+  },
+  {
+    "steps": "3.75",
+    "energy": "1.75",
+    "water": "1.25",
+    "calorie": "680",
+    "date": "03-27",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "4.5",
+    "energy": "2",
+    "water": "1.5",
+    "calorie": "990",
+    "date": "03-27",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "6.5",
+    "energy": "2.5",
+    "water": "2",
+    "calorie": "1800",
+    "date": "03-27",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "10.5",
+    "energy": "4",
+    "water": "3",
+    "calorie": "2100",
+    "date": "03-27",
+    "category": 4,
+    "time": 23
+  },
+  {
+    "steps": "0.5",
+    "energy": "0.5",
+    "water": "1",
+    "calorie": "600",
+    "date": "03-28",
+    "category": 1,
+    "time": 8
+  },
+  {
+    "steps": "1.5",
+    "energy": "1.5",
+    "water": "1.5",
+    "calorie": "900",
+    "date": "03-28",
+    "category": 1,
+    "time": 13
+  },
+  {
+    "steps": "4.5",
+    "energy": "2.25",
+    "water": "2",
+    "calorie": "1600",
+    "date": "03-28",
+    "category": 3,
+    "time": 18
+  },
+  {
+    "steps": "7.5",
+    "energy": "3",
+    "water": "2.5",
+    "calorie": "2300",
+    "date": "03-28",
+    "category": 4,
+    "time": 23
+  }
+]

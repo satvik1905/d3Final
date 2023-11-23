@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Satvik Khopkar Final</title>
+
+    <script src="d3.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+  </head>
+
+  <body>
+    <div id="slider">
+      <input
+        type="range"
+        name="mySlider"
+        id="rangeSlider"
+        min="8"
+        max="23"
+        step="1"
+        value="8"
+      />
+
+      <button class="button-1" type="button" id="start">Start</button>
+      <button class="button-1" type="button" id="stop">Stop</button>
+    </div>
+
+    <div id="canvas"></div>
+
+    <h1>Hypothesis : What affects my energy levels the most?</h1>
+    <p>To create this visualization I collected the following data:</p>
+    <ol>
+      <li>Amount of steps I walked in a day.</li>
+      <li>Water Consumption in a day</li>
+      <li>CalorieConsumption in a day</li>
+      <li>Energy Levels (0 = Lazy and 5 = Energetic)</li>
+    </ol>
+    <p>
+      I collected the above data 4 times in a day - at 8 am, at 1 pm, at 6 pm
+      and at 11 pm. 40 days of data has been adequate for me to come to a
+      conclusion about how my Walking habits are affecting my Energy Levels.
+    </p>
+    <p>
+      <a
+        href="https://docs.google.com/spreadsheets/d/1gaKzZZrA9HebfDQeMsMg0VZ0JlNjjIRlA8cMVCn-PD8/edit#gid=195256376"
+        >View the Data collected for this project</a
+      >
+    </p>
+    <p>
+      <a href="https://digitalmedia.neu.edu/6108khopkar/term/final/data.json"
+        >View the Data in Json used for the visualization</a
+      >
+    </p>
+    <hr />
+
+    <h2>Visualization</h2>
+    <p>
+      The X axis reprsents the Amount of Steps (in Thousands) and the Y axis
+      represents the Energy Levels. The circles are plotted accordingly. The
+      circle size represents the amount of water consumed in a day. The colors
+      represent the amount of calories consumed in a day.
+    </p>
+    <p>
+      I have added a mouse over feature (tooltip). It displays the date, time,
+      calorie amount, water level, Amount of steps, and Energy Levels for that
+      observation. The slider at the top, makes this plot interactive. When the
+      slider is moved, the circles animate from 8 am to 11pm. The color legend
+      is Interactive as well. Once we click on a circle in the color legend,
+      only the circle which has been clicked will be highlighted.
+    </p>
+    <hr />
+    <h2>Conclusion</h2>
+    <p>
+      To Conclude, I now know the reasons for feeling less energetic on some
+      days and more energetic on other days. Based on my visualization, we can
+      see that Number of Steps I walk is having a major impact on my Energy
+      Levels. Through this visualization, we can see that Calorie Consumption
+      and Water Consumption do not seem to have as much impact as Amount of
+      Steps do. The data that I have collected definitely proves my hypothesis,
+      as I can see a pattern in my visualization and hypothesis.
+    </p>
+    <hr />
+
+    <h2>Sketch about the visualization</h2>
+    <a
+      href="https://digitalmedia.neu.edu/6108khopkar/term/sketches/draft/sketch3.pdf"
+      >Sketch</a
+    >
+    <hr />
+    <h2>Citation for the visualization idea:</h2>
+
+    <a href="https://observablehq.com/@stanfordvis/making-d3-charts-interactive"
+      >Observable HQ</a
+    >
+  </body>
+  <script src="main.js"></script>
+</html>
